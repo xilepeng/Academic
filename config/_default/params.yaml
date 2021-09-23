@@ -77,8 +77,9 @@ address_format: zh
 # Site features
 
 highlight: true
-highlight_languages:
-  - r
+highlight_languages: 
+  - go
+# highlight_style: base16/solarized-light
 math: true
 diagram: true
 privacy_pack: false
@@ -141,7 +142,7 @@ search:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: false
+    show_logo: true
 map:
   provider: ''
   api_key: ''

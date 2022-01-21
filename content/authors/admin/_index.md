@@ -1,12 +1,12 @@
 ---
 # Display name
-title: mojo
+title: 席乐朋
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 后端开发工程师
+role: 云原生方向研发工程师
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -62,9 +62,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lepengxi@gmail.com"

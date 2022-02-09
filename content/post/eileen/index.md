@@ -66,4 +66,8 @@ categories:
 
 
 
-[原文](https://cn.nytimes.com/sports/20220208/eileen-gu-skiing-fear/)
+
+
+[双语原文](https://cn.nytimes.com/sports/20220208/eileen-gu-skiing-fear/dual/)
+
+[中文原文](https://cn.nytimes.com/sports/20220208/eileen-gu-skiing-fear/)
